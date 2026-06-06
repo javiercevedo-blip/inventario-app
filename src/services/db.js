@@ -3,7 +3,7 @@ import realData from './realData.json';
 
 const DB_KEY = 'inventario_react_items';
 const VERSION_KEY = 'inventario_data_version_real';
-const CURRENT_VERSION = '1.0.1'; // Incrementing version to force-reset local storage cache once
+const CURRENT_VERSION = '1.0.2'; // Incrementing version to force-reset local storage cache once
 
 export const getItems = () => {
   const storedVersion = localStorage.getItem(VERSION_KEY);
