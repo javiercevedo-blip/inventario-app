@@ -20,7 +20,6 @@ export const testSheetsConnection = async (url) => {
   if (!url) throw new Error('La URL del Script está vacía.');
   
   try {
-    // Append a query param to check connection
     const targetUrl = `${url}?action=ping`;
     const response = await fetch(targetUrl, {
       method: 'GET',
@@ -36,11 +35,11 @@ export const testSheetsConnection = async (url) => {
     return text.includes('pong') || response.ok;
   } catch (error) {
     console.error('Connection test failed:', error);
-    throw new Error('No se pudo conectar al Script. Verifica la URL y la configuración de CORS en el Script.');
+    throw new Error('No se pudo conectar al Script. Verifica la URL y la configuración de CORS.');
   }
 };
 
-// Fetch items from Google Sheets
+// Fetch items from Google Sheets (mapping the 7 sheet columns)
 export const fetchItemsFromSheets = async (url) => {
   try {
     const response = await fetch(`${url}?action=read`, {
@@ -59,9 +58,11 @@ export const fetchItemsFromSheets = async (url) => {
         sku: String(item.sku || ''),
         descripcion: String(item.descripcion || ''),
         cantidad: Number(item.cantidad || 0),
+        // Google Script will output mapped fields
         faltantes: Number(item.faltantes || 0),
-        ubicacion: String(item.ubicacion || ''),
-        imagen: String(item.imagen || '')
+        modelos: String(item.modelos || ''),
+        imagen: String(item.imagen || ''),
+        ubicacion: String(item.ubicacion || '')
       }));
     }
     throw new Error('El formato de datos devuelto no es un array válido.');
@@ -74,14 +75,12 @@ export const fetchItemsFromSheets = async (url) => {
 // Perform write action to Google Sheets (add/update/delete)
 const writeToSheets = async (url, action, item) => {
   try {
-    // We send payload as a form or URL parameter since Google Apps Script handles POST payload best in certain formats
-    // Using standard JSON POST request
     const response = await fetch(url, {
       method: 'POST',
       mode: 'cors',
       redirect: 'follow',
       headers: {
-        'Content-Type': 'text/plain;charset=utf-8', // Plain text avoids CORS preflight OPTIONS request in Apps Script Web Apps
+        'Content-Type': 'text/plain;charset=utf-8',
       },
       body: JSON.stringify({ action, item })
     });

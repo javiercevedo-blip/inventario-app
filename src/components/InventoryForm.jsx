@@ -7,6 +7,7 @@ const InventoryForm = ({ item, onSave, onClose, isEdit }) => {
   const [descripcion, setDescripcion] = useState('');
   const [cantidad, setCantidad] = useState(0);
   const [faltantes, setFaltantes] = useState(0);
+  const [modelos, setModelos] = useState('');
   const [ubicacion, setUbicacion] = useState('');
   const [imagen, setImagen] = useState('');
   
@@ -20,6 +21,7 @@ const InventoryForm = ({ item, onSave, onClose, isEdit }) => {
       setDescripcion(item.descripcion || '');
       setCantidad(item.cantidad || 0);
       setFaltantes(item.faltantes || 0);
+      setModelos(item.modelos || '');
       setUbicacion(item.ubicacion || '');
       setImagen(item.imagen || '');
     }
@@ -36,7 +38,7 @@ const InventoryForm = ({ item, onSave, onClose, isEdit }) => {
       
       const reader = new FileReader();
       reader.onloadend = () => {
-        setImagen(reader.result); // Base64 data URL
+        setImagen(reader.result);
         setErrorMsg('');
       };
       reader.onerror = () => {
@@ -69,6 +71,7 @@ const InventoryForm = ({ item, onSave, onClose, isEdit }) => {
       descripcion: descripcion.trim(),
       cantidad: Math.max(0, parseInt(cantidad, 10) || 0),
       faltantes: Math.max(0, parseInt(faltantes, 10) || 0),
+      modelos: modelos.trim(),
       ubicacion: ubicacion.trim() || 'Sin ubicación',
       imagen
     };
@@ -104,7 +107,7 @@ const InventoryForm = ({ item, onSave, onClose, isEdit }) => {
               </div>
             )}
 
-            {/* SKU Field (Readonly when editing, Scanner trigger when adding) */}
+            {/* SKU Field */}
             <div className="form-group">
               <label className="form-label">SKU / Código de Barras *</label>
               <div style={{ display: 'flex', gap: '0.5rem' }}>
@@ -145,7 +148,7 @@ const InventoryForm = ({ item, onSave, onClose, isEdit }) => {
               />
             </div>
 
-            {/* Quantity and Shortfalls in grid */}
+            {/* Quantity and Shortfalls */}
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '1rem' }}>
               <div className="form-group">
                 <label className="form-label">Cantidad Actual</label>
@@ -170,6 +173,18 @@ const InventoryForm = ({ item, onSave, onClose, isEdit }) => {
                   required
                 />
               </div>
+            </div>
+
+            {/* Models (Drones) */}
+            <div className="form-group">
+              <label className="form-label">Modelos Compatibles (Drones)</label>
+              <input
+                type="text"
+                className="form-input"
+                value={modelos}
+                onChange={(e) => setModelos(e.target.value)}
+                placeholder="Ej. M30 , M30T, AIR 3"
+              />
             </div>
 
             {/* Location */}

@@ -11,11 +11,11 @@ const InventoryList = ({ items, onEdit, onDelete }) => {
   // Filter and sort items
   const filteredItems = items
     .filter(item => {
-      // Search filter
       const term = searchTerm.toLowerCase();
       const matchesSearch = 
         (item.sku || '').toLowerCase().includes(term) ||
         (item.descripcion || '').toLowerCase().includes(term) ||
+        (item.modelos || '').toLowerCase().includes(term) ||
         (item.ubicacion || '').toLowerCase().includes(term);
       
       if (!matchesSearch) return false;
@@ -54,7 +54,6 @@ const InventoryList = ({ items, onEdit, onDelete }) => {
     setShowSearchScanner(false);
   };
 
-  // Generate simple gradient based on SKU string for beautiful placeholder cards
   const getGradientBySku = (sku) => {
     const hash = sku.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
     const gradients = [
@@ -80,7 +79,7 @@ const InventoryList = ({ items, onEdit, onDelete }) => {
             className="search-input"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="Buscar por SKU, descripción o ubicación..."
+            placeholder="Buscar por SKU, descripción, modelo o ubicación..."
           />
           <button
             className="btn btn-secondary"
@@ -161,7 +160,7 @@ const InventoryList = ({ items, onEdit, onDelete }) => {
                   <img src={item.imagen} alt={item.descripcion} className="item-image" />
                 ) : (
                   <div className="item-image-placeholder" style={{ background: getGradientBySku(item.sku) }}>
-                    <span style={{ fontSize: '2.5rem', fontWeight: 700, color: 'white', opacity: 0.85 }}>{item.sku.split('-')[0]}</span>
+                    <span style={{ fontSize: '2.5rem', fontWeight: 700, color: 'white', opacity: 0.85 }}>{item.sku.split('.').slice(-2, -1)[0] || item.sku.split('-')[0]}</span>
                     <span style={{ fontSize: '0.8rem', color: 'white', opacity: 0.75 }}>Sin Imagen</span>
                   </div>
                 )}
@@ -182,6 +181,13 @@ const InventoryList = ({ items, onEdit, onDelete }) => {
                 <div className="item-sku">{item.sku}</div>
                 <h4 className="item-title" title={item.descripcion}>{item.descripcion}</h4>
                 
+                {/* Drone models list */}
+                {item.modelos && (
+                  <div style={{ fontSize: '0.8rem', fontWeight: 700, color: 'var(--primary)', marginBottom: '0.5rem', opacity: 0.9 }}>
+                    Dron: {item.modelos}
+                  </div>
+                )}
+
                 <div className="item-location">
                   <MapPin size={14} style={{ color: 'var(--primary)' }} />
                   <span>{item.ubicacion || 'Sin ubicación'}</span>

@@ -1,0 +1,2621 @@
+[
+  {
+    "sku": "YC.JG.ZS001442.01",
+    "descripcion": "PROPELLER  (CCW)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "AIR 2S",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001440.01",
+    "descripcion": "PROPELLER (CW)",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "AIR 2S",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA00103.01",
+    "descripcion": "LOW - NOISE PROPELLER A (CCW)",
+    "cantidad": 13,
+    "faltantes": 0,
+    "modelos": "AIR 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA001704.01",
+    "descripcion": "LOW - NOISE PROPELLER B (CW)",
+    "cantidad": 13,
+    "faltantes": 0,
+    "modelos": "AIR 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000748.01",
+    "descripcion": "PEAR ARM MODULE (LEFT)",
+    "cantidad": 1,
+    "faltantes": 4,
+    "modelos": "AIR 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA002393.01",
+    "descripcion": "AIRCRAFT MIDDLE FRAME MODULE",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "AIR 3S",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000747.01",
+    "descripcion": "FRONT ARM MODULE (LEFT)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "AIR 3S",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000749.01",
+    "descripcion": "FRONT ARM MODULE (RIGHT)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "AIR 3S",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000750.01",
+    "descripcion": "PEAR ARM MODULE (RIGHT)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "AIR 3S",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000780.01",
+    "descripcion": "AIRCRAFT LOWER COVER MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "FLIP",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS005708.04",
+    "descripcion": "AIRCRAFT UPPER COVER",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "FLIP",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.AA000538.01",
+    "descripcion": "LEFT PEAR DUOT MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "FLIP",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.AA000540.01",
+    "descripcion": "LEFT REAR DUCT MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "FLIP",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.AA000539.01",
+    "descripcion": "RIGHT FRONT DUOT MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "FLIP",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.AA000541.01",
+    "descripcion": "RIGHT PEAR DUOT MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "FLIP",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.SJ.GG000034.03",
+    "descripcion": "PRESS DOWN QUICK RELEASE PROPELLER",
+    "cantidad": 20,
+    "faltantes": 0,
+    "modelos": "M2EA",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001863.03",
+    "descripcion": "AIR INLET DECORATIVE COVER",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000487.01",
+    "descripcion": "AIRCRAFT LOWER COVER MODULE",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/BC.EN.SS000487.01.IMAGEN.142743.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "BC.EN.SS000472.01",
+    "descripcion": "AIRCRAFT UPPER COVER MODULE",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.TT000115.03",
+    "descripcion": "ANTENNA FEEDER (BLUE)",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.TT000114.03",
+    "descripcion": "ANTENNA FEEDER (RED)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001802.03",
+    "descripcion": "BACK COVER",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS001802.03.IMAGEN.143130.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS001861.01",
+    "descripcion": "BATTERY COMPARTAMENT FRONT COVER",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000495.01",
+    "descripcion": "BATTERY COMPARTAMENT MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001782.04",
+    "descripcion": "BATTERY RELEASED TOGGLE (LEFT)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MY000702.02",
+    "descripcion": "DAMPER",
+    "cantidad": 10,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000493.01",
+    "descripcion": "ESC BOARD MODULE",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/BC.EN.SS000493.01.IMAGEN.161538.jpg",
+    "ubicacion": "CAJA M350 RTK"
+  },
+  {
+    "sku": "BC.EN.PP000424.04",
+    "descripcion": "FLEXIBLE FLAT CABLE CONNECTING AD8-B",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.PP000601.02",
+    "descripcion": "FLEXIBLE FLAT CABLE CONNECTING LEFT V/SLOT",
+    "cantidad": 1,
+    "faltantes": 4,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.PP000602.02",
+    "descripcion": "FLEXIBLE FLAT CABLE CONNECTION RIGHT VISION BOARD AND ADS - B",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "M30 , M30T",
+    "imagen": "Unable to load image data. Image may be missing or upload size may be too large for this device.",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "BC.EN.SS000553.01",
+    "descripcion": "FRAME ARM ADAPTER (M1)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "Unable to load image data. Image may be missing or upload size may be too large for this device.",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000555.01",
+    "descripcion": "FRAME ARM ADAPTER (M3)",
+    "cantidad": 8,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000556.01",
+    "descripcion": "FRAME ARM ADAPTER (M4)",
+    "cantidad": 7,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "Unable to load image data. Image may be missing or upload size may be too large for this device.",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001807.04",
+    "descripcion": "FRAME ARM ADAPTER LOWER COVER (M1)",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001809.04",
+    "descripcion": "FRAME ARM ADAPTER LOWER COVER (M3)",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001810.05",
+    "descripcion": "FRAME ARM ADAPTER LOWER COVER (M4)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001804.05",
+    "descripcion": "FRAME ARM ADAPTER UPPER COVER (M2)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001805.05",
+    "descripcion": "FRAME ARM ADAPTER UPPER COVER (M3)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001806.05",
+    "descripcion": "FRAME ARM ADAPTER UPPER COVER (M4)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001623.07",
+    "descripcion": "FRAME ARM CARBON TUBE (M1)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001626.06",
+    "descripcion": "FRAME ARM CARBON TUBE (M2)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS001624.06",
+    "descripcion": "FRAME ARM CARBON TUBE (M3)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001625.06",
+    "descripcion": "FRAME ARM CARBON TUBE (M4)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000614.01",
+    "descripcion": "FRAME ARM MODULE (M1)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000512.01",
+    "descripcion": "FRAME ARM MODULE (M2)",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000613.01",
+    "descripcion": "FRAME ARM MODULE (M3)",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000511.01",
+    "descripcion": "FRAME ARM MODULE (M4)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001638.05",
+    "descripcion": "FRAME Y TEC (M1 & M2)",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001637.03",
+    "descripcion": "FRAME Y TEC (M3 & M4)",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001815.03",
+    "descripcion": "FRONT LANDING GEAR",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001816.07",
+    "descripcion": "LOWER COVER REAR LANDING GEAR",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.YZ000391.08",
+    "descripcion": "LOWER HEAT SINK",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.JG.YZ000391.08.IMAGEN.151438.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS002014.03",
+    "descripcion": "FRAME ARM ADAPTER (M1)",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS002014.03.IMAGEN.144306.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.DZ.AF000070.01",
+    "descripcion": "M30 /30T - FAN",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS002015.03",
+    "descripcion": "M30 /M30T - FRAME ARM ADAPTER (M2)",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002016.04",
+    "descripcion": "M30 /M30T - FRAME ARM ADAPTER (M3)",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001803.05",
+    "descripcion": "M30 /M30T - Frame Arm Adapter Upper Cover (M1)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.DD000510.04",
+    "descripcion": "FRAME ARM POWER CABLE (M1)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.XC.DD000510.04.IMAGEN.151718.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.XC.DD000495.08",
+    "descripcion": "FRAME ARM POWER CABLE (M3 & M4)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.XC.DD000495.08.IMAGEN.143637.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.DZ.AA000273.03",
+    "descripcion": "M30 /M30T - Front Landing Gear Antenna Board (Right)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001975.05",
+    "descripcion": "MOTOR BASE LOWER COVER (M3 & M4)",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS001975.05.IMAGEN.152122.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS001972.05",
+    "descripcion": "MOTOR BASE UPPER COVER (M1 & M2)",
+    "cantidad": 14,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS001972.05.IMAGEN.151214.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS001974.05",
+    "descripcion": "MOTOR BASE UPPER COVER (M3 & M4)",
+    "cantidad": 15,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS001974.05.IMAGEN.144011.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.QX001625.03",
+    "descripcion": "PROPELLER CLIP",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000685.01",
+    "descripcion": "PROPULSION MOTTOR (CCW)",
+    "cantidad": 7,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/BC.EN.SS000685.01.IMAGEN.152234.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "BC.EN.SS000686.01",
+    "descripcion": "PROPULSION MOTTOR (CW)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "75563900185725",
+    "descripcion": "PTZ COAXIAL CABLE",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002630.04",
+    "descripcion": "REAR LANDING GEAR COVER (LEFT)",
+    "cantidad": 8,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS002630.04.IMAGEN.143827.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS002631.04",
+    "descripcion": "REAR LANDING GEAR COVER (RIGHT)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS002631.04.IMAGEN.151335.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "BC.EN.SS000486.01",
+    "descripcion": "RTX MODULE",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30",
+    "imagen": "INVENTARIO_Images/BC.EN.SS000486.01.IMAGEN.142322.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.ZS001861.06",
+    "descripcion": "BATTERY COMPARTMENT FRONT COVER",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS001861.06.IMAGEN.143336.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "BC.ENSS000483.01",
+    "descripcion": "UPPER VISION MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "M30",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000554.01",
+    "descripcion": "FRAME ADAPTER LOWER M1",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.DD000494.08",
+    "descripcion": "FRAME ARM POWER CABLE (M2)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.XC.DD000494.08.IMAGEN.211356.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000548.01",
+    "descripcion": "VIDEO TRANSMISSION ANTENNA LANDING GEAR (M2)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "BC.EN.SS000176.01",
+    "descripcion": "Landing Gear Locking Buckle Module",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MATRICE 200 V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.DD000375.06",
+    "descripcion": "AIRCRAFT ARM CABLE HARNESS (BLACK) (M3)",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/YC.XC.DD000375.06.IMAGEN.191845.jpg",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.XC.XS000002.03",
+    "descripcion": "AIRCRAFT ARM CABLE HARNESS (GREY) (M4)",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/YC.XC.XS000002.03.IMAGEN.191943.jpg",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "70791726682308",
+    "descripcion": "AIRCRAFT ARM CARBON TUBE (M1)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000187.08",
+    "descripcion": "AIRCRAFT ARM CARBON TUBE (M1)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000185.09",
+    "descripcion": "AIRCRAFT ARM CARBON TUBE (M2)",
+    "cantidad": 10,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000186.08",
+    "descripcion": "AIRCRAFT ARM CARBON TUBE (M3)",
+    "cantidad": 13,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK , MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000184.10",
+    "descripcion": "AIRCRAFT ARM CARBON TUBE (M4)",
+    "cantidad": 12,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK , MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000108.11",
+    "descripcion": "AIRCRAFT ARM CONECTOR (M1)",
+    "cantidad": 14,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.JG.ZS000109.11",
+    "descripcion": "AIRCRAFT ARM CONECTOR (M2)",
+    "cantidad": 13,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS000109.11.IMAGEN.210124.jpg",
+    "ubicacion": "CAJA GRANDE M300"
+  },
+  {
+    "sku": "YC.JG.ZS000111.11",
+    "descripcion": "AIRCRAFT ARM CONECTOR (M3)",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.JG.ZS000110.11",
+    "descripcion": "AIRCRAFT ARM CONECTOR (M4)",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.SS000327.03",
+    "descripcion": "AIRCRAFT ARM LOOCKER MODUDE",
+    "cantidad": 8,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000118.04",
+    "descripcion": "AIRCRAFT FRONT COVEER",
+    "cantidad": 10,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "Unable to load image data. Image may be missing or upload size may be too large for this device.",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.DZ.AF000042.03",
+    "descripcion": "AIRCRAFT LOWER SHELL FAN",
+    "cantidad": 13,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/YC.DZ.AF000042.03.IMAGEN.172648.jpg",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.SS000330.01",
+    "descripcion": "AIRCRAFT LOWER SHELL MODULE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.XC.TT000058.06",
+    "descripcion": "AIRCRAFT RTK FEEDER (GREY) (M4)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.XC.TT000057.06",
+    "descripcion": "AIRCRAFT RTX FEEDER (BLACK M3",
+    "cantidad": 15,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.DZ.AF000044.03",
+    "descripcion": "AIRCRAFT UPPER SHELL FAN",
+    "cantidad": 12,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/YC.DZ.AF000044.03.IMAGEN.205434.jpg",
+    "ubicacion": "CAJA CHICA M300"
+  },
+  {
+    "sku": "BC.EN.SS000339.01",
+    "descripcion": "AIRCRAFT UPPER SHELL MODULE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000328.02",
+    "descripcion": "BATTERY COMPARTAMENT MODULE",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000332.01",
+    "descripcion": "BATTERY PORT BOARD MODULE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000356.01",
+    "descripcion": "DOWNWARD SINGLE GIMBAL DAMPING MODULE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000353.01",
+    "descripcion": "FPV MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.DD000376.06",
+    "descripcion": "FRONT ARM CABLE HARNESS (M1 & M2)",
+    "cantidad": 10,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "7S5BL6Q00100SG",
+    "descripcion": "GIMBAL DAMPER",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MY000055.01",
+    "descripcion": "LANDING GEAR BOTTON PAD",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/YC.JG.MY000055.01.IMAGEN.192712.jpg",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.JG.ZS000099.08",
+    "descripcion": "LANDING GEAR CONNECTOR",
+    "cantidad": 7,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000355.02",
+    "descripcion": "LANDING GEAR MODULE",
+    "cantidad": 10,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AA000380.01",
+    "descripcion": "LANDING GEAR SDR ANTENA (M1)",
+    "cantidad": 8,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/YC.DZ.AA000380.01.IMAGEN.152916.jpg",
+    "ubicacion": "CAJA M350 RTK 1"
+  },
+  {
+    "sku": "BC.EN.SS000326.01",
+    "descripcion": "LEFT  SDR ANTENNA BASE",
+    "cantidad": 10,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.JG.ZS000435.02",
+    "descripcion": "MIDDLE FRAME UPPER COVER",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.SS000718.01",
+    "descripcion": "PROPULSION MOTOR (CCW)",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.SS000719.01",
+    "descripcion": "PROPULSION MOTOR (CW)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.SS000379.01",
+    "descripcion": "RIGHT SDR ANTENNA BASE",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.SS000325.01",
+    "descripcion": "RTX ANTENNA MODULE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.JG.MY000087.02",
+    "descripcion": "RUBBER DAMPER",
+    "cantidad": 37,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YCGMY000493XLAF",
+    "descripcion": "RUBBER WASHER (FOR PROPELLER)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000335.01",
+    "descripcion": "SD CARD SLOT MODULE",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "Unable to load image data. Image may be missing or upload size may be too large for this device.",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.pp000267.04",
+    "descripcion": "SDR ANTENNA BOARD",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK",
+    "imagen": "INVENTARIO_Images/BC.EN.pp000267.04.IMAGEN.192928.jpg",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "YC.ST.LL000067.01",
+    "descripcion": "SOREW M30",
+    "cantidad": 20,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK , MATRICE 350 RTK , DOCK 2",
+    "imagen": "INVENTARIO_Images/YC.ST.LL000067.01.IMAGEN.173309.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MY000039.01",
+    "descripcion": "WATERPROOF RUBBER RING BETWEEN MOTOR COVER AND SDR ANTENNA BASE",
+    "cantidad": 30,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK , MATRICE 350 RTK",
+    "imagen": "INVENTARIO_Images/YC.JG.MY000039.01.IMAGEN.173128.jpg",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.PP000183.04",
+    "descripcion": "FLEXIBLE FLAT CABLE CONNECTING ADS - B BOAR AND CORE",
+    "cantidad": 8,
+    "faltantes": 0,
+    "modelos": "MATRICE 300 RTK , MATRICE 350 RTK",
+    "imagen": "INVENTARIO_Images/BC.EN.PP000183.04.IMAGEN.205907.jpg",
+    "ubicacion": "CAJA M300"
+  },
+  {
+    "sku": "BC.EN.SS000725.01",
+    "descripcion": "2110s PROPELLER (CCW)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000724.01",
+    "descripcion": "2110s PROPELLER (CW)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000647.01",
+    "descripcion": "AIRCRAFT LOWER SHELL MODULE",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "BC.EN.SS000640.01",
+    "descripcion": "AIRCRAFT UPPER SHELL MODULE",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000662.01",
+    "descripcion": "DOWNWARD GIMBAL VIBRATION DAMPING MODULE",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.YZ000705.02",
+    "descripcion": "ESC BOARD HEAT MODULE",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "INVENTARIO_Images/YC.JG.YZ000705.02.IMAGEN.191555.jpg",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "BC.EN.SS000635.01",
+    "descripcion": "FRAME ARM CONNECTOR (M1)",
+    "cantidad": 8,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "BC.EN.SS000636.01",
+    "descripcion": "FRAME ARM CONNECTOR (M2)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "BC.EN.SS000633.01",
+    "descripcion": "FRAME ARM CONNECTOR (M3)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "BC.EN.SS000634.01",
+    "descripcion": "FRAME ARM CONNECTOR (M4)",
+    "cantidad": 7,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000654.01",
+    "descripcion": "FRAME ARM LOCK MODULE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003661.04",
+    "descripcion": "LANDING GEAR CONNECTOR",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "YC.DZ.AA000344.01",
+    "descripcion": "LANDING GEAR SDR ANTENNA (M2)",
+    "cantidad": 9,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "INVENTARIO_Images/YC.DZ.AA000344.01.IMAGEN.193048.jpg",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "YC.JG.ZS003679.03",
+    "descripcion": "LEFT LANDING GEAR(M2)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS003679.03.IMAGEN.191427.jpg",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "YC.DZ.AF000041.02",
+    "descripcion": "LOWER COVER FAN",
+    "cantidad": 13,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003680.03",
+    "descripcion": "RIGHT LANDING GEAR (M1)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "YC.JG.ZS000036.03",
+    "descripcion": "SDR BOTOM PAD",
+    "cantidad": 0,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AF000040.02",
+    "descripcion": "UPPER COVER FAN",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000848.01",
+    "descripcion": "AIRCRAFT MIDDLE FRAME",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP001206.05",
+    "descripcion": "FPC (ESC BOARD)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000857.01",
+    "descripcion": "FRONT LEFT ARM MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS005105.07",
+    "descripcion": "GIMBEL LOWER VIBRATION ABSORBING BOARD",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS005106.06",
+    "descripcion": "GIMBEL UPPER VIBRATION ABSORTING BOARD",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000859.01",
+    "descripcion": "PEAR LEFT ARM MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000860.01",
+    "descripcion": "PEAR RIGHT ARM MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS005099.05",
+    "descripcion": "POLL ARM COVER",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MATRICE 4E",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "1562709194931",
+    "descripcion": "FLEXIBLE GIMBAL",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.WJ.CC000015.04",
+    "descripcion": "FRONT AIRCRAFT ARM SHEFT (LEFT)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.WJ.CC000014.04",
+    "descripcion": "FRONT ARM AXIS (RIGHT)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "yc.sj.ws000434.08",
+    "descripcion": "FRONT ARM LOWER COVER (LEFT)",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000366.01",
+    "descripcion": "FRONT ARM MODULE (LEFT) (RH)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000367.01",
+    "descripcion": "FRONT ARM MODULE (RIGHT) (RH)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "yc.sj.ws000433.08",
+    "descripcion": "FRONT AXIS LOWER COVER (RIGHT)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.SJ.WS000423.08",
+    "descripcion": "GIMBAL MOUNTING COVER",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.WJ.CC000013.03",
+    "descripcion": "REAR ARM AXIS",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000106.01",
+    "descripcion": "UPPER COVER MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MAVIC 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000413.01",
+    "descripcion": "AIRCRAFT ARM MODULE (FRONT RIGHT)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000417.01",
+    "descripcion": "AIRCRAFT ARM MODULE (REAR RIGHT)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.HG000010.03",
+    "descripcion": "AIRCRAFT ARM ROTATING AXIS (FRONT LEFT)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.HG000008.03",
+    "descripcion": "AIRCRAFT ARM ROTATING AXIS (FRONT RIGHT)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.HG000009.04",
+    "descripcion": "AIRCRAFT ARM ROTATING AXIS (REAR LEFT)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001363.03",
+    "descripcion": "AIRCRAFT FRONT COVER",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP000458.03",
+    "descripcion": "BATTERY IN-POSITION MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001433.07",
+    "descripcion": "GIMBAL LOWER VIBRATION ABSORBING BOARD",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MY000436.04",
+    "descripcion": "GIMBAL RUBBER DAMPER",
+    "cantidad": 13,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001436.07",
+    "descripcion": "GIMBAL UPPER VIBRATION ABSORBING BOARD",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "75684379174564",
+    "descripcion": "PTZ COAXIAL CABLE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000398.01",
+    "descripcion": "ESC BOARD MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3C",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000414.01",
+    "descripcion": "AIRCRAFT ARM MODULE (FRONT LEFT)",
+    "cantidad": 7,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000416.01",
+    "descripcion": "AIRCRAFT ARM MODULE (REAL LEFT)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000528.01",
+    "descripcion": "AIRCRAFT UPPER COVER MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000534.01",
+    "descripcion": "AIRCRAFTREAR COVER MODULE",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AA000228.08",
+    "descripcion": "ANTENNA  (SHORT) (LEFT)",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AA000229.07",
+    "descripcion": "ANTENNA (LONG) (RIGHT)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.PP000733.04",
+    "descripcion": "BEACON BOARD",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000545.01",
+    "descripcion": "ESC BOARD MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AF000064.01",
+    "descripcion": "FAN (4508)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AF000064.02",
+    "descripcion": "FAN (4508)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.EN.SS000533.01",
+    "descripcion": "FRONT LEFT AIRCRAFT ARM MODULE",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001126.04",
+    "descripcion": "PROPELLER (CCW)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001125.04",
+    "descripcion": "PROPELLER (CW)",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MAVIC 3, M3T",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP000066.12",
+    "descripcion": "3 IN 1 FLEXIBLE FLAT CABLE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "CP.MA.SS000023.02",
+    "descripcion": "BACK LEFT ARM",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "SS000109.01",
+    "descripcion": "ESC",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.WJ.CC000178.02",
+    "descripcion": "FRONT AIRCRAFT ARM ROTATION",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "CP.MA.SS000022.02",
+    "descripcion": "FRONT ARM MODULE (LEFT)",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "CP.MA.SS000020.02",
+    "descripcion": "FRONT ARM MODULE (RIGHT)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000115.01",
+    "descripcion": "GIMBAL AND CAMERA MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "CP.MA.SS000021.02",
+    "descripcion": "PEAR ARM MODULE (RIGHT)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP000491.01",
+    "descripcion": "3IN1 FLEXIBLE FIAT CABLE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000241.01",
+    "descripcion": "CCW PROPELLER (PAIR) (YELLOW)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000242.01",
+    "descripcion": "CW PROPELLERB(PAIR) (YELLOW)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000228.02",
+    "descripcion": "FRONT LEFT MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000231.02",
+    "descripcion": "REAR RIGHT AIRCRAFT ARM MODULE",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MAVIC MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000223.01",
+    "descripcion": "AIRCRAFT LOWER COVER MODULE",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000728.05",
+    "descripcion": "AIRCRAFT MIDDLE FRAME",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000725.02",
+    "descripcion": "AIRCRAFT PEAR COVER",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS000724.03",
+    "descripcion": "AIRCRAFT UPPER",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000229.02",
+    "descripcion": "FRONT RIGHT AIRCRAFT ARM MODULE",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000286.01",
+    "descripcion": "Gimbal and Camera Module",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.HG000007.01",
+    "descripcion": "REAR AIRCRAFT ARM ROTATION AXLS",
+    "cantidad": 10,
+    "faltantes": 0,
+    "modelos": "MINI 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP000895.02",
+    "descripcion": "2 IN 1 FPC",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003207.04",
+    "descripcion": "AIRCRAFT LOWER COVER",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003205.03",
+    "descripcion": "AIRCRAFT MIDDLE FRAME",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000564.01",
+    "descripcion": "AIRCRAFT UPPER COVER MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000557.01",
+    "descripcion": "FRONT LEFT ARM MODULE",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000559.01",
+    "descripcion": "FRONT RIGHT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000551.01",
+    "descripcion": "GIMBAL  & CAMERA MODULOE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.TZ000201.04",
+    "descripcion": "GIMBEL COAXIAL CABLE",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000563.01",
+    "descripcion": "GPS & IMU MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000560.01",
+    "descripcion": "PEAR RIGHT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002522.02",
+    "descripcion": "PROPELLER CCW",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002523.03",
+    "descripcion": "PROPELLER CW",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000558.01",
+    "descripcion": "REAR LEFT ARM MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 3",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP000680.07",
+    "descripcion": "7 IN 1 FLAT CABLE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002575.06",
+    "descripcion": "AIRCRAFT LOWER COVER",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000490.01",
+    "descripcion": "AIRCRAFT LOWER COVER MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002566-06",
+    "descripcion": "AIRCRAFT MIDDLE FRAME",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000473.01",
+    "descripcion": "AIRCRAFT UPPER COVER MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MY000796.07",
+    "descripcion": "DAMPER (FOUR CLIP",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MY000795.07",
+    "descripcion": "DAMPER (THREE CILP",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP000672.04",
+    "descripcion": "FLEXIBLE FLAT CABLE([ ESC BOARD AND CORE BOARD)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.HG000023.04",
+    "descripcion": "FRONT AIRCRAFT ARM ROTATING AXIS",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000468.02",
+    "descripcion": "FRONT LEFT AIRCRAFT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000470.02",
+    "descripcion": "FRONT RIGHT AIRCRAFT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JGZS002579.05",
+    "descripcion": "FRORWARD VISION SENSOR MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000474.01.F",
+    "descripcion": "GIMBAL AND CAMERA MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.TZ000162.07",
+    "descripcion": "GIMBAL COAXIAL CABLE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000478.01",
+    "descripcion": "GIMBAL PITOH AXIS MOTOR MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000554.01",
+    "descripcion": "GIMBAL ROLL  MOTOR MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "73755334790188",
+    "descripcion": "GIMBEL FRONT COVER MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002587.05",
+    "descripcion": "GIMBEL SIDE COVER (LEFT)",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS002588.06",
+    "descripcion": "GIMBEL SIDE COVER (RIGHT)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000466.01",
+    "descripcion": "GPS & IMU DAMPER",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000471.02",
+    "descripcion": "REAR RIGHT AIRCRAFT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 3 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.HG000047.02",
+    "descripcion": "AIRCRAFT ARM ROTATING AXIS (REAR LEFT)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.HG000048.02",
+    "descripcion": "AIRCRAFT ARM ROTATING AXIS (REAR RIGHT)",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003984.03",
+    "descripcion": "AIRCRAFT LOWER COVER",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA001643.01",
+    "descripcion": "AIRCRAFT UPPER COVER",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AV000107.03",
+    "descripcion": "DONWARD VISION SENSOR MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000694.01",
+    "descripcion": "ESC BOARD MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP001103.03",
+    "descripcion": "ESC BOARD- CORE BOARD) FLAT CABLE FLEXIBLE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP001082.06",
+    "descripcion": "FLEXIBLE FLAT CABLE (DONWARD VISIOS SISTEM)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.PP001101.03",
+    "descripcion": "FLEXIBLE FLAT CABLE (FORDWARD & BACKWARD VISION)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000690.01",
+    "descripcion": "FORWARD & BACKWARD VISION SENSOR MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MQ002350.02",
+    "descripcion": "FRONT ARMS STICKER",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA001635.01",
+    "descripcion": "FRONT LEFT AIRCRAFT ARM MODULE",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA001636.01",
+    "descripcion": "FRONT RIGHT AIRCRAFT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003990.03",
+    "descripcion": "GIMBAL  SIDE COVER (LEFT)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003991.03",
+    "descripcion": "GIMBAL  SIDE COVER (RIGHT)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.YT000006.05",
+    "descripcion": "GIMBAL RUBBER DAMPER (FOUR-CLIP)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.YT000007.05",
+    "descripcion": "GIMBAL RUBBER DAMPER (THREE-CLIP)",
+    "cantidad": 8,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000697.01",
+    "descripcion": "GIMBEL AND CAMERA MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.XC.TZ000231.04",
+    "descripcion": "GIMBEL COAXIAL CABLE",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000688.01",
+    "descripcion": "GPS & IMU MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS003983.02",
+    "descripcion": "MIDDLE FRAME",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.MQ002351.02",
+    "descripcion": "REAR  ARMS STICKER",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA001637.01",
+    "descripcion": "REAR LEFT AIRCRAFT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.AA001638.01",
+    "descripcion": "REAR RIGHT AIRCRAFT ARM MODULE",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.BZ.JJ000012.01",
+    "descripcion": "WATERPROOF LABEL",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI 4 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000734.01",
+    "descripcion": "FRONT AIRCRAFT ARM MODULE (LEFT)",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "MINI 4K",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS007223.02",
+    "descripcion": "PROPELLER SET (CW)",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI 5 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS007222.02",
+    "descripcion": "PROPELLER SET (CWW)",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI 5 PRO",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS001239.03",
+    "descripcion": "AIRCRAFT MIDDLE FRAME",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI SE",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000225.01",
+    "descripcion": "ESC BOAR MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "MINI SE",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000230.02",
+    "descripcion": "REAR LEFT AIRCRAFT MODULE ARM",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "MINI SE",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.SS000049.01",
+    "descripcion": "GIMBAL AND CAMERA",
+    "cantidad": 3,
+    "faltantes": 2,
+    "modelos": "NEO",
+    "imagen": "INVENTARIO_Images/BC.PF.SS000049.01.IMAGEN.185222.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.SJ.D00253.02",
+    "descripcion": "GIMBEL PROTECTIC BRACKET",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "PHANTOM 4PRO V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PT.SS000160.02",
+    "descripcion": "LEFT LANDING GEAR",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "PHANTOM 4PRO V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "CP.PT.S00076",
+    "descripcion": "MIDDLE SHELL",
+    "cantidad": 3,
+    "faltantes": 0,
+    "modelos": "PHANTOM 4PRO V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.SJ.GG000036.01",
+    "descripcion": "PRESS DOWN CCW",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "PHANTOM 4PRO V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.SJ.GG000037.01",
+    "descripcion": "PRESS DOWN CW",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "PHANTOM 4PRO V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "353.02",
+    "descripcion": "PROTECTION",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "PHANTOM 4PRO V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "CP.PT.S00073",
+    "descripcion": "QUICK RELEASE PROPELLER MOUNTING PLATE CCW",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "PHANTOM 4PRO V2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AA000253.04",
+    "descripcion": "EXTERNAL RC ANTENNA",
+    "cantidad": 5,
+    "faltantes": 0,
+    "modelos": "RC PLUS",
+    "imagen": "INVENTARIO_Images/YC.DZ.AA000253.04.IMAGEN.165734.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AA000414.06",
+    "descripcion": "EXTERNAL SDR ANTENNA",
+    "cantidad": 4,
+    "faltantes": 0,
+    "modelos": "RC PLUS",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AF000066.01",
+    "descripcion": "FAN",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "RC PLUS",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.AG.SS000586.01",
+    "descripcion": "LEFT CONTROL STICK MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "RC PLUS",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.AG.SS000595.01",
+    "descripcion": "REMOTE CONTROLLER UPPER SHELL MODULE",
+    "cantidad": 1,
+    "faltantes": 0,
+    "modelos": "RC PLUS",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.AG.SS000585.01",
+    "descripcion": "RIGHT CONTROL STICK MODULE",
+    "cantidad": 6,
+    "faltantes": 0,
+    "modelos": "RC PLUS",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.RC.SS000020.01",
+    "descripcion": "RIGHT CONTROL STICK MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "RC PLUS",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.RC.SS000084.01",
+    "descripcion": "CONTROL STICK MODULE (RIGHT)",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "RC PRO 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.SJ.WS001862.03",
+    "descripcion": "T30 ANTENNA LEFT SLEEVE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "RC PRO 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.SJ.WS001857.03",
+    "descripcion": "T30 ANTENNA RIGHT SLEEVE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "RC PRO 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.MA.SS000070.01",
+    "descripcion": "T30 LEFT CONTROL STICK MODULE",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "RC PRO 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AA000084.03",
+    "descripcion": "VIDEO DOWNLINK ANTENNA (RIGHT) (LONG)",
+    "cantidad": 0,
+    "faltantes": 0,
+    "modelos": "RC PRO 2",
+    "imagen": "",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.SS000047.01",
+    "descripcion": "PROPULSION MOTOR FRONT",
+    "cantidad": 2,
+    "faltantes": 0,
+    "modelos": "NEO",
+    "imagen": "INVENTARIO_Images/BC.PF.SS000047.01.IMAGEN.193120.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.SS000048.01",
+    "descripcion": "PROPULSIÓN MOTOR REAR",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "NEO",
+    "imagen": "INVENTARIO_Images/BC.PF.SS000048.01.IMAGEN.193241.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "BC.PF.SS000045.01",
+    "descripcion": "MAIN BODY",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "NEO",
+    "imagen": "INVENTARIO_Images/BC.PF.SS000045.01.IMAGEN.193346.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.JG.ZS005828.05",
+    "descripcion": "LOWER COVER",
+    "cantidad": 2,
+    "faltantes": 3,
+    "modelos": "NEO",
+    "imagen": "INVENTARIO_Images/YC.JG.ZS005828.05.IMAGEN.193451.jpg",
+    "ubicacion": ""
+  },
+  {
+    "sku": "YC.DZ.AA000246.05",
+    "descripcion": "ADS - B ANTENNA RIGHT",
+    "cantidad": 4,
+    "faltantes": 1,
+    "modelos": "M30 , M30T",
+    "imagen": "INVENTARIO_Images/YC.DZ.AA000246.05.IMAGEN.142143.jpg",
+    "ubicacion": "CAJA M30T"
+  },
+  {
+    "sku": "YC.JG.MY001192.02",
+    "descripcion": "RUBBER DAMPERS",
+    "cantidad": 20,
+    "faltantes": 0,
+    "modelos": "MATRICE 350 RTK",
+    "imagen": "",
+    "ubicacion": "CAJA M350"
+  },
+  {
+    "sku": "BC.EN.SS000513.01",
+    "descripcion": "FRAME ARM MODULE (M3)",
+    "cantidad": 1,
+    "faltantes": 4,
+    "modelos": "M30 , M30T",
+    "imagen": "",
+    "ubicacion": "CAJA M30T"
+  }
+]
