@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Edit2, Trash2, MapPin, Eye, AlertCircle, Camera, Search, Filter } from 'lucide-react';
+import { Edit2, Trash2, MapPin, Eye, AlertCircle, Camera, Search, Image } from 'lucide-react';
 import Scanner from './Scanner';
 
 const InventoryList = ({ items, onEdit, onDelete }) => {
@@ -52,18 +52,6 @@ const InventoryList = ({ items, onEdit, onDelete }) => {
   const handleScanSearchResult = (code) => {
     setSearchTerm(code);
     setShowSearchScanner(false);
-  };
-
-  const getGradientBySku = (sku) => {
-    const hash = sku.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
-    const gradients = [
-      'linear-gradient(135deg, #6366f1, #a855f7)',
-      'linear-gradient(135deg, #10b981, #06b6d4)',
-      'linear-gradient(135deg, #f59e0b, #e11d48)',
-      'linear-gradient(135deg, #3b82f6, #6366f1)',
-      'linear-gradient(135deg, #ec4899, #8b5cf6)'
-    ];
-    return gradients[hash % gradients.length];
   };
 
   return (
@@ -159,9 +147,9 @@ const InventoryList = ({ items, onEdit, onDelete }) => {
                 {item.imagen ? (
                   <img src={item.imagen} alt={item.descripcion} className="item-image" />
                 ) : (
-                  <div className="item-image-placeholder" style={{ background: getGradientBySku(item.sku) }}>
-                    <span style={{ fontSize: '2.5rem', fontWeight: 700, color: 'white', opacity: 0.85 }}>{item.sku.split('.').slice(-2, -1)[0] || item.sku.split('-')[0]}</span>
-                    <span style={{ fontSize: '0.8rem', color: 'white', opacity: 0.75 }}>Sin Imagen</span>
+                  <div className="item-image-placeholder" style={{ backgroundColor: 'var(--bg-tertiary)', borderBottom: '1px solid var(--border-color)' }}>
+                    <Image size={32} style={{ color: 'var(--text-tertiary)', opacity: 0.6, marginBottom: '0.5rem' }} />
+                    <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', fontWeight: 600 }}>Sin Imagen</span>
                   </div>
                 )}
                 
