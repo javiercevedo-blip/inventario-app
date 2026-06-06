@@ -1,16 +1,56 @@
-# React + Vite
+# Control de Inventario Premium (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una aplicación web moderna, rápida y responsiva para el control de inventario físico, optimizada para su uso en dispositivos móviles y computadoras.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **Diseño Premium:** Interfaz adaptable con variables CSS, transiciones suaves y soporte para Modo Oscuro.
+*   **Base de Datos Híbrida:** 
+    *   **Modo Local:** Almacenamiento local automático offline en el navegador (`localStorage`) precargado con 291 artículos.
+    *   **Sincronización:** Integración con Google Sheets para leer y escribir datos en tiempo real.
+*   **Escáner Integrado:** Lector de códigos de barras y QR utilizando la cámara del dispositivo móvil.
+*   **Carga de Imágenes:** Permite capturar fotos desde el celular y guardarlas localmente como cadenas de texto Base64.
+*   **Filtros & Búsquedas:** Buscador por SKU, descripción, ubicación y modelos compatibles de drones.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Estructura de Archivos Principal
 
-## Expanding the ESLint configuration
+*   `src/App.jsx` - Controlador central y enrutador.
+*   `src/index.css` - Sistema de diseño y estilos premium.
+*   `src/components/` - Dashboard, lista de artículos, formulario y cámara escáner.
+*   `src/services/db.js` - Control del almacenamiento local e importaciones CSV.
+*   `src/services/sheets.js` - Servicio de red para sincronizar con Google Sheets.
+*   `google-apps-script/Code.gs` - Código backend para pegar en tu Apps Script.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Comandos Útiles
+
+Navega a la carpeta de tu proyecto y ejecuta en tu terminal:
+
+### Levantar Servidor de Desarrollo
+*   **En CMD (Recomendado):**
+    ```bash
+    npm run dev
+    ```
+*   **En PowerShell (Evitando restricciones de scripts):**
+    ```powershell
+    cmd /c npm run dev
+    ```
+
+### Compilar para Producción
+```bash
+npm run build
+```
+
+---
+
+## Configuración con Google Sheets
+
+1. Abre tu Google Sheet con una pestaña llamada **INVENTARIO** y las siguientes columnas:
+   `SKU, DESCRIPCION, CANTIDAD, FALTANTE, MODELOS, IMAGEN, UBICADO EN`
+2. Ve a **Extensiones &rarr; Apps Script**.
+3. Pega el contenido de `google-apps-script/Code.gs`.
+4. Haz clic en **Implementar &rarr; Nueva implementación** como *Aplicación Web*, ejecutada por *Ti* con acceso para *Cualquiera*.
+5. Copia la URL generada y pégala en la pestaña **Ajustes** de esta aplicación.
