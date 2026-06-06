@@ -2,11 +2,17 @@
 import realData from './realData.json';
 
 const DB_KEY = 'inventario_react_items';
+const VERSION_KEY = 'inventario_data_version_real';
+const CURRENT_VERSION = '1.0.1'; // Incrementing version to force-reset local storage cache once
 
 export const getItems = () => {
+  const storedVersion = localStorage.getItem(VERSION_KEY);
   const items = localStorage.getItem(DB_KEY);
-  if (!items) {
+  
+  // If no items exist, or the stored version is outdated (e.g. they have mock data cached), force load realData
+  if (!items || storedVersion !== CURRENT_VERSION) {
     localStorage.setItem(DB_KEY, JSON.stringify(realData));
+    localStorage.setItem(VERSION_KEY, CURRENT_VERSION);
     return realData;
   }
   return JSON.parse(items);
@@ -46,6 +52,7 @@ export const deleteItem = (sku) => {
 
 export const resetToMockData = () => {
   saveItems(realData);
+  localStorage.setItem(VERSION_KEY, CURRENT_VERSION);
   return realData;
 };
 
@@ -82,14 +89,12 @@ export const importFromCSVText = (csvText) => {
   const descIdx = headers.indexOf('descripcion') !== -1 ? headers.indexOf('descripcion') : headers.indexOf('descripción');
   const cantIdx = headers.indexOf('cantidad');
   
-  // Try 'faltante' or 'faltantes'
   let faltIdx = headers.indexOf('faltante');
   if (faltIdx === -1) faltIdx = headers.indexOf('faltantes');
 
   const modIdx = headers.indexOf('modelos');
   const imgIdx = headers.indexOf('imagen');
   
-  // Try 'ubicacion', 'ubicación', or 'ubicado en'
   let ubiIdx = headers.indexOf('ubicacion');
   if (ubiIdx === -1) ubiIdx = headers.indexOf('ubicación');
   if (ubiIdx === -1) ubiIdx = headers.indexOf('ubicado en');
@@ -143,6 +148,7 @@ export const importFromCSVText = (csvText) => {
   }
 
   saveItems(parsedItems);
+  localStorage.setItem(VERSION_KEY, CURRENT_VERSION);
   return parsedItems;
 };
 
